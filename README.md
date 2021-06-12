@@ -1,4 +1,4 @@
-# send_email_with_pdf_from_google_docs
+Nach 'clone' des Projektes. Im Projektordner.
 
 1. Erstelle und aktiviere ein 'virtual environment'
     -> https://docs.python.org/3/tutorial/venv.html
